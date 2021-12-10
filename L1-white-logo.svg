@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 1881.13 541.63"
+   version="1.1"
+   sodipodi:docname="evmos-white-logo.svg"
+   inkscape:version="1.1.1 (eb90963e84, 2021-10-02)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview17"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.49655689"
+     inkscape:cx="1082.454"
+     inkscape:cy="110.76274"
+     inkscape:window-width="1853"
+     inkscape:window-height="1025"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <rect
+       x="42.312246"
+       y="281.52593"
+       width="1.8700554"
+       height="78.282479"
+       id="rect15492" />
+    <style
+       id="style2">.cls-1{fill:&quot;current&quot;;}</style>
+  </defs>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:360px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;fill:#000000;fill-opacity:1;stroke:none"
+     x="151.45155"
+     y="368.17929"
+     id="text4756"><tspan
+       sodipodi:role="line"
+       id="tspan4754"
+       x="151.45155"
+       y="368.17929"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:360px;font-family:ubuntu;-inkscape-font-specification:ubuntu">genesisL1</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text15490"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:360px;line-height:1.25;font-family:ubuntu;-inkscape-font-specification:ubuntu;white-space:pre;shape-inside:url(#rect15492);fill:#000000;fill-opacity:1;stroke:none"
+     transform="translate(151.76383,-19.688804)" />
+</svg>
